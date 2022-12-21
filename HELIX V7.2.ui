@@ -2054,7 +2054,7 @@ border:None;</string>
                        </property>
                        <property name="icon">
                         <iconset>
-                         <normaloff>../../../../../Python/qt desiger/Tutorial/Simple manager/icons/icons_discord/refresh-ccw.svg</normaloff>../../../../../Python/qt desiger/Tutorial/Simple manager/icons/icons_discord/refresh-ccw.svg</iconset>
+                         <normaloff>icons/refresh-ccw.svg</normaloff>icons/refresh-ccw.svg</iconset>
                        </property>
                        <property name="iconSize">
                         <size>
@@ -2077,7 +2077,7 @@ border:None;</string>
                        </property>
                        <property name="icon">
                         <iconset>
-                         <normaloff>../../../../../Python/qt desiger/Tutorial/Simple manager/icons/icons_discord/trash-2.svg</normaloff>../../../../../Python/qt desiger/Tutorial/Simple manager/icons/icons_discord/trash-2.svg</iconset>
+                         <normaloff>icons/trash-2.svg</normaloff>icons/trash-2.svg</iconset>
                        </property>
                       </widget>
                      </item>
@@ -3179,7 +3179,7 @@ border:None;</string>
                        </property>
                        <property name="icon">
                         <iconset>
-                         <normaloff>../../../../../Python/qt desiger/Tutorial/Simple manager/icons/icons_discord/refresh-ccw.svg</normaloff>../../../../../Python/qt desiger/Tutorial/Simple manager/icons/icons_discord/refresh-ccw.svg</iconset>
+                         <normaloff>icons/refresh-ccw.svg</normaloff>icons/refresh-ccw.svg</iconset>
                        </property>
                        <property name="iconSize">
                         <size>
@@ -3202,7 +3202,7 @@ border:None;</string>
                        </property>
                        <property name="icon">
                         <iconset>
-                         <normaloff>../../../../../Python/qt desiger/Tutorial/Simple manager/icons/icons_discord/trash-2.svg</normaloff>../../../../../Python/qt desiger/Tutorial/Simple manager/icons/icons_discord/trash-2.svg</iconset>
+                         <normaloff>icons/trash-2.svg</normaloff>icons/trash-2.svg</iconset>
                        </property>
                       </widget>
                      </item>
@@ -3886,7 +3886,7 @@ border:None;</string>
                    </property>
                    <property name="icon">
                     <iconset>
-                     <normaloff>../../../../../Python/qt desiger/Tutorial/Simple manager/icons/icons_discord/refresh-ccw.svg</normaloff>../../../../../Python/qt desiger/Tutorial/Simple manager/icons/icons_discord/refresh-ccw.svg</iconset>
+                     <normaloff>icons/refresh-ccw.svg</normaloff>icons/refresh-ccw.svg</iconset>
                    </property>
                    <property name="iconSize">
                     <size>
@@ -4544,7 +4544,7 @@ border:None;</string>
                        </property>
                        <property name="icon">
                         <iconset>
-                         <normaloff>../../../../../Python/qt desiger/Tutorial/Simple manager/icons/icons_discord/refresh-ccw.svg</normaloff>../../../../../Python/qt desiger/Tutorial/Simple manager/icons/icons_discord/refresh-ccw.svg</iconset>
+                         <normaloff>icons/refresh-ccw.svg</normaloff>icons/refresh-ccw.svg</iconset>
                        </property>
                        <property name="iconSize">
                         <size>
@@ -4567,7 +4567,7 @@ border:None;</string>
                        </property>
                        <property name="icon">
                         <iconset>
-                         <normaloff>../../../../../Python/qt desiger/Tutorial/Simple manager/icons/icons_discord/trash-2.svg</normaloff>../../../../../Python/qt desiger/Tutorial/Simple manager/icons/icons_discord/trash-2.svg</iconset>
+                         <normaloff>icons/trash-2.svg</normaloff>icons/trash-2.svg</iconset>
                        </property>
                       </widget>
                      </item>
