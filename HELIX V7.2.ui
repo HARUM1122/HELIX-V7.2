@@ -78,10 +78,10 @@
            <number>5</number>
           </property>
           <property name="leftMargin">
-           <number>0</number>
+           <number>3</number>
           </property>
           <property name="topMargin">
-           <number>10</number>
+           <number>6</number>
           </property>
           <property name="rightMargin">
            <number>0</number>
@@ -420,7 +420,7 @@ padding-top:-3px</string>
                 <cursorShape>PointingHandCursor</cursorShape>
                </property>
                <property name="styleSheet">
-                <string notr="true"/>
+                <string notr="true">margin-right:2px</string>
                </property>
                <property name="text">
                 <string/>
